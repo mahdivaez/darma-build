@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.d5ca9e79.css",
+    "main.js": "/test/static/js/main.1fa11728.js",
+    "static/media/logogif.gif": "/test/static/media/logogif.32a153427dc5c2844811.gif",
+    "static/media/Inter-Light.ttf": "/test/static/media/Inter-Light.02850f28027788580733.ttf",
+    "static/media/Rectangle.png": "/test/static/media/Rectangle.fc87ff750aa06611df63.png",
+    "static/media/clossiom.png": "/test/static/media/clossiom.e57b3db2c7c2f67f9fbc.png",
+    "static/media/west-bold.ttf": "/test/static/media/west-bold.a479fa63a36091c2ff86.ttf",
+    "static/media/dude.png": "/test/static/media/dude.2267c49a58da56e37ce2.png",
+    "static/media/dude-black.new.png": "/test/static/media/dude-black.new.0797a949e1cb17b531c0.png",
+    "static/media/winner.png": "/test/static/media/winner.b59535ea036b55fbde9c.png",
+    "static/media/shadow33.png": "/test/static/media/shadow33.94c3d82207555d6c0178.png",
+    "static/media/girl.png": "/test/static/media/girl.b2147abb3aa41aed4a6b.png",
+    "static/media/girl-black-new.png": "/test/static/media/girl-black-new.f385724445b389967efb.png",
+    "static/media/2nd.png": "/test/static/media/2nd.1eac5795a98e305b1687.png",
+    "static/media/email@3x-8 1.png": "/test/static/media/email@3x-8 1.ba12cc4c2554410bde6c.png",
+    "static/media/Group156.svg": "/test/static/media/Group156.6b1e398f9ce233cdd1b5c9d74b29990b.svg",
+    "static/media/phone@3x-8 1.png": "/test/static/media/phone@3x-8 1.c064b90260e59cef7ecd.png",
+    "static/media/add@3x-8 1.png": "/test/static/media/add@3x-8 1.0ca900901ea69ff5f05a.png",
+    "static/media/shadow1.png": "/test/static/media/shadow1.162c8214b3d827d22d74.png",
+    "static/media/Groupall.png": "/test/static/media/Groupall.9340eb21136ead4c96bb.png",
+    "static/media/Lines.png": "/test/static/media/Lines.ae5be2b3f349b4fd72aa.png",
+    "static/media/4th.png": "/test/static/media/4th.2ab174e77cce2f8f910b.png",
+    "static/media/3rd.png": "/test/static/media/3rd.4e6e45d529f52f26fda4.png",
+    "static/media/back@3x-8 1.png": "/test/static/media/back@3x-8 1.8ffa0d420970df5a7e47.png",
+    "static/media/hAPEOW.svg": "/test/static/media/hAPEOW.04f20a9e1aec82e5bb514bc2c800ad40.svg",
+    "index.html": "/test/index.html",
+    "main.d5ca9e79.css.map": "/test/static/css/main.d5ca9e79.css.map",
+    "main.1fa11728.js.map": "/test/static/js/main.1fa11728.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5ca9e79.css",
+    "static/js/main.1fa11728.js"
+  ]
+}
